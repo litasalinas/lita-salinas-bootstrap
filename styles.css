@@ -1,0 +1,17 @@
+
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+
+/* Custom CSS for Navbar */
+.navbar {
+    background-color: #d0f254; /* Customize color */
+}
+
+.nav-link {
+    color: #b0119d;
+    position: relative; /* Customize link text color */
+}
+
